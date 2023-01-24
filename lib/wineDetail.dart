@@ -137,7 +137,7 @@ class _WineDetailState extends State<WineDetail> {
                         Text('Essentially Geared Wine',
                             style: TextStyle(
                               fontFamily: 'AbrilFatFace',
-                              fontSize: 20.0,
+                              fontSize: 18.0,
                             )),
                         Text('Every Journey is An Opportunity',
                             style: TextStyle(
