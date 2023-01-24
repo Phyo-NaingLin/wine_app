@@ -19,14 +19,7 @@ class Wine {
 }
 
 var wines = [
-  Wine(
-    price: "\$49",
-    title: "Bottle",
-    subTitle: "Bottle",
-    imgPath: "assets/images/bottle.png",
-    bgColor: Colors.black12,
-    rating: 5,
-  ),
+
   Wine(
     price: "\$49",
     title: "Canchardonnay",
